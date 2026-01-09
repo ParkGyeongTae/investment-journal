@@ -52,6 +52,7 @@ Claude Code는 자동으로:
 
 - [AeroVironment (AVAV)](2026-01-09-aerovironment.md) - 2026-01-09
 - [Coinbase (COIN)](2026-01-09-coinbase.md) - 2026-01-09
+- [Costco Wholesale (COST)](2026-01-09-costco.md) - 2026-01-09
 
 ## 기여 방법
 
