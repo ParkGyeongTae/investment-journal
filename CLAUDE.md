@@ -110,7 +110,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
    - **통화 표기 (중요)**:
      - 모든 달러 금액은 원화 병기 필수
      - 형식: `$100M (약 1,400억원)` 또는 `$50.5 (약 70,000원)`
-     - 환율은 분석 시점 기준 적용 (예: USD/KRW 1,400)
+     - 환율은 USD/KRW 1,400 기준 적용
      - 시가총액, 매출, 주가 등 모든 금액에 적용
      - 백만/십억 단위는 M/B로 표기 (예: $1.5B = 약 2.1조원)
 
