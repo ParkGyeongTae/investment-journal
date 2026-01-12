@@ -17,12 +17,13 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 각 투자 분석 문서는 다음 섹션 포함:
 
-1. **헤더**
+1. **0. 요약**
    - 회사명 (영문), 티커
    - 현재 주가 (USD 및 KRW 병기)
    - 시가총액 (USD 및 KRW 병기)
    - 분석 일자
    - 52주 최고/최저가
+   - 목표가 및 투자 의견 (Bull Case, Bear Case)
 
 2. **1. 회사 개요**
    - 사업 분야 및 주요 제품/서비스 (매출 비중 포함)
