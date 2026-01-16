@@ -9,7 +9,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## 파일명 규칙
 
 - 형식: `YYYY-MM-DD-{회사명}.md`
-- 예시: `2026-01-09-aerovironment.md`
+- 예시: `companies/2026-01-09-aerovironment.md`
 - 회사명은 소문자, 하이픈 구분
 - 날짜는 분석 작성일
 
@@ -120,20 +120,3 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
    - Bull Case와 Bear Case 균형있게 서술
    - 과도한 낙관론이나 비관론 지양
    - 불확실성 있는 정보는 명시
-
-## Git 워크플로우
-
-분석 완료 시:
-
-```bash
-git add YYYY-MM-DD-{company}.md
-git commit -m "Add {Company} ({TICKER}) investment analysis
-
-- Company overview and recent developments
-- Financial analysis with recent results
-- Business landscape and competitive positioning
-- Investment thesis with strengths and risks
-
-Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>"
-git push origin main
-```
